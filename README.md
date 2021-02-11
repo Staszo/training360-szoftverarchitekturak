@@ -70,3 +70,35 @@
 ![alt text](screenshots/08_html_css_02.png)
 ![alt text](screenshots/08_html_css_03.png)
 
+
+## Webes alkalmazás RIA felülettel
+![alt text](screenshots/09_webes_alkalmazas_ria_01.png)
+![alt text](screenshots/09_webes_alkalmazas_ria_02.png)
+![alt text](screenshots/09_webes_alkalmazas_ria_03.png)
+![alt text](screenshots/09_webes_alkalmazas_ria_04.png)
+![alt text](screenshots/09_webes_alkalmazas_ria_05.png)
+![alt text](screenshots/09_webes_alkalmazas_ria_06.png)
+
+
+## REST Webszolgáltatások
+![alt text](screenshots/10_rest_webszolgaltatasok_01.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_02.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_03.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_04.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_05.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_06.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_07.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_08.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_09.png)
+![alt text](screenshots/10_rest_webszolgaltatasok_10.png)
+
+
+## Szerver alkalmazás webszolgáltatás interfésszel
+![alt text](screenshots/11_szerver_alkalmazas_webszolg_interfesszel_01.png)
+![alt text](screenshots/11_szerver_alkalmazas_webszolg_interfesszel_02.png)
+![alt text](screenshots/11_szerver_alkalmazas_webszolg_interfesszel_03.png)
+![alt text](screenshots/11_szerver_alkalmazas_webszolg_interfesszel_04.png)
+![alt text](screenshots/11_szerver_alkalmazas_webszolg_interfesszel_05.png)
+
+
+
