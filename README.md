@@ -101,4 +101,15 @@
 ![alt text](screenshots/11_szerver_alkalmazas_webszolg_interfesszel_05.png)
 
 
+## Magas rendelkezésre állás és skálázhatóság
+![alt text](screenshots/12_magas_rendelkezesre_allas_01.png)
+![alt text](screenshots/12_magas_rendelkezesre_allas_02.png)
+![alt text](screenshots/12_magas_rendelkezesre_allas_03.png)
+
+
+## Virtualizáció
+![alt text](screenshots/13_virtualizacio_01.png)
+![alt text](screenshots/13_virtualizacio_02.png)
+![alt text](screenshots/13_virtualizacio_03.png)
+
 
